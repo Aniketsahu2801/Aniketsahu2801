@@ -29,7 +29,7 @@ A Machine Learning / MLOps engineer focused on building and deploying scalable, 
 <a href="https://github.com/Aniketsahu2801">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/aniketsahu2801">
+<a href="[https://www.linkedin.com/in/aniketsahu2801](https://www.linkedin.com/in/aniket-kumar-sahu-b26018204/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
